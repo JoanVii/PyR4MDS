@@ -74,7 +74,7 @@ results.params["group[T.trt1]"]
 results.params["group[T.trt2]"]
 
 # Explore model results
-results.summary()
+print(results.summary())
 
 # ANOVA
 # compute anova
